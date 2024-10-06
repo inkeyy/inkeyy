@@ -7,4 +7,6 @@ Latest news about me
 Languages
 
 Follow Links 
+
 ![Flutter](https://img.shields.io/badge/-Flutter-090909)
+![Flutter](https://img.shields.io/badge/-Telegram-090909)
